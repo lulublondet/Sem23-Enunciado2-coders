@@ -1,0 +1,33 @@
+
+.left:after {
+			content: "";
+			width: 12px;
+			height: 12px;
+			border-radius:5px;
+			background-color: white;
+			position: absolute;
+			left:95%;
+		}
+
+
+.right:after {
+			content: "";
+			width: 12px;
+			height: 12px;
+			border-radius:5px;
+			background-color: white;
+			position: absolute;
+			bottom:-2%;
+			left: -12%;
+		}
+
+
+.center:after {
+			content: "";
+			width: 12px;
+			height: 12px;
+			border-radius:5px;
+			background-color: white;
+			position: absolute;
+			top:-75%;
+		}		
